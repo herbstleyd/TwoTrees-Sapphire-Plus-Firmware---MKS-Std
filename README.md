@@ -8,6 +8,6 @@ Working firmware for the TwoTrees Sapphire Plus (last Edition before Namechange 
 ## Install:
 - Just put all the files on the root of an SD-Card and powercycle your printer
 ## Media:
-![Logo](https://i.ibb.co/kH4NX9t/logo1.jpg)
+![Logo](https://i.ibb.co/smhP3tr/logoneu.png)
 ## Help!
 - U need help? Ask here: [3D-Maker Discord] (https://discord.gg/nHaqJsAA6v)
