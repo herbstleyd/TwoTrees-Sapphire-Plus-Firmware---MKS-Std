@@ -10,4 +10,4 @@ Working firmware for the TwTrees Sapphire Plus (last Edition before Namechange t
 ## Media:
 ![Logo](https://i.ibb.co/kH4NX9t/logo1.jpg)
 ## Help!
-- U need help? Ask here: [3D-Maker Discord] (https://discord.gg/qYcYCxk86c)
+- U need help? Ask here: [3D-Maker Discord] (https://discord.gg/nHaqJsAA6v)
