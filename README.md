@@ -1,5 +1,5 @@
 # TwoTrees-Sapphire-Plus-Firmware---MKS-Std
-Working firmware for the TwTrees Sapphire Plus (last Edition before Namechange to SP-5)
+Working firmware for the TwoTrees Sapphire Plus (last Edition before Namechange to SP-5)
 - Version 2021 with 2 Z-Motors with Belt-Sync and one Z-Endstop
 ## Changes:
 - slightly changed bootscreen - poorly mady by me
