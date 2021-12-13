@@ -7,3 +7,5 @@ Working firmware for the TwTrees Sapphire Plus (last Edition before Namechange t
 - E-Steps: 812 - perfect for the BMG clone thats shipped with
 ## Install:
 - Just put all the files on the root of an SD-Card and powercycle your printer
+## Media:
+![Logo](https://i.ibb.co/kH4NX9t/logo1.jpg)
