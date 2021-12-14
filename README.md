@@ -11,3 +11,6 @@ Working firmware for the TwoTrees Sapphire Plus (last Edition before Namechange 
 ![Logo](https://i.ibb.co/smhP3tr/logoneu.png)
 ## Help!
 - U need help? Ask here: [3D-Maker Discord] (https://discord.gg/nHaqJsAA6v)
+## Support me
+- I really want to dive deeper in the Marlin Firmware story on the MKS Nano Boards. But i cant flash my Board in my Printer all the time. I need a spare Board with Display for the development. If u have a spare coin, send it via PayPay at https://paypal.me/TheoRadical?country.x=DE&locale.x=de_DE
+- Thank You!
